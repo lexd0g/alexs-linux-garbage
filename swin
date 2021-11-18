@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+spectacle -abcpo 'Pictures/Screenshots/'$(date +%Y-%m)'/'$(date +%Y-%m-%dT%r)'.png'
